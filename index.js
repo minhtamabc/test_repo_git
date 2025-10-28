@@ -1,0 +1,3 @@
+function getDate(){
+    //code xyz
+}
