@@ -4,3 +4,7 @@ function setToken(){
 function getDate(){
     //code xyz
 }
+
+function clickDangNhap(){
+    
+}
